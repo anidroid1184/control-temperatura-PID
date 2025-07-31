@@ -1,6 +1,6 @@
 # 🔥 Sistema de Control de Temperatura con PID
 
-Proyecto de control automático de temperatura usando un microcontrolador (RP2040/ESP32) con **algoritmo PID**, interfaz LCD y comunicación SPI para termopar. Ideal para aplicaciones de hornos, soldadoras o estaciones de reflow.
+Proyecto de control automático de temperatura usando un microcontrolador ESP32 con **algoritmo PID**, interfaz LCD y comunicación SPI para termopar. Ideal para aplicaciones de hornos, soldadoras o estaciones de reflow.
 
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
